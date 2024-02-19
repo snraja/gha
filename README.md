@@ -1,2 +1,2 @@
 # gha
-practice of github actions
+practice of github actions on github.com
