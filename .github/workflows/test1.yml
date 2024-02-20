@@ -9,5 +9,3 @@ jobs:
     steps:
       - name: checkout source code
         uses: actions/checkout@v4
-      - name: run commands
-      - run: echo "begin run commands"
