@@ -11,6 +11,3 @@ jobs:
         uses: actions/checkout@v4
       - name: run commands
       - run: echo "begin run commands"
-      - run: echo "($ls)"
-      - run: ls -A
-      - run: pwd
